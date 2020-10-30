@@ -1,4 +1,4 @@
-# iiitmhackathon
+# hackathon
 Khana Bachao ******DELHI edition*****
 requirements: Python 3.7
               *FOR FURTHUR REQUIREMENTS CHECK "requirements.txt"*
