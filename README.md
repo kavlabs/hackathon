@@ -1,7 +1,7 @@
 # hackathon
 Khana Bachao ******DELHI edition*****
 requirements: Python 3.7
-              *FOR FURTHUR REQUIREMENTS CHECK "requirements.txt"*
+              *FOR FURTHER REQUIREMENTS CHECK "requirements.txt"*
 
 Modules req to run this repository : 
 pip install pandas
